@@ -4,8 +4,10 @@ A compilation of ever-growing Python projects using open-source and proprietary 
 
 Projects range from:
 
-Beginner  
+Beginner
+
 Intermediate
+
 Experience
 
 All projects include annotations to help guide users through projects. Feel free to reach out to me and =)
