@@ -10,4 +10,4 @@ Intermediate
 
 Experience
 
-All projects include annotations to help guide users through projects. Feel free to reach out to me and =)
+All projects include annotations to help guide users through projects. Feel free to send me a message or connect with me on socials =)
